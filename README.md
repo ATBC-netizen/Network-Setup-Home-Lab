@@ -1,7 +1,7 @@
 # Mock Enterprise Network Setup
 
 ## Objective
-The goal of this home lab was to design, deploy, and manage a network with Active Directory Domain Services (AD/DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP) infrastructure.
+The goal of this home lab was to design, deploy, and manage a network infrastructure comprising Active Directory Domain Services (AD/DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP).
 
 ## Lab Architecture & IP Addressing
 * **Network ID:** `192.168.1.0`
