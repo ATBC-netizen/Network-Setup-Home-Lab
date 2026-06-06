@@ -15,7 +15,8 @@ The goal of this home lab was to design, deploy, and manage a network infrastruc
 ## 1. Directory Architecture
 <img width="559" height="391" alt="Architecture (OUs)" src="https://github.com/user-attachments/assets/a2c72121-5e2a-4818-9922-789cdca33292" />
 
-**Figure 1: Active Directory Enterprise Hierarchy** Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accounts from standard users, workstations, and network infrastructure, thus facilitating strict Role-Based Access Control (RBAC) through Group Policy Objects (GPOs).
+**Figure 1: Active Directory Enterprise Hierarchy** 
+Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accounts from standard users, workstations, and network infrastructure, thus facilitating strict Role-Based Access Control (RBAC) through Group Policy Objects (GPOs).
 
 ## 2. 
 
