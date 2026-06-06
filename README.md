@@ -7,7 +7,7 @@ The goal of this home lab was to design, deploy, and manage a network with Activ
 * **Network ID:** `192.168.1.0`
 * **Domain Controller / DNS Server:** `192.168.1.50` (Windows Server 2022 Datacenter Edition - Desktop Experience)
 * **DHCP Server:** `192.168.1.49` (Windows Server 2022 Datacenter Edition - Server Core)
-* **Client Workstation:** `192.168.1.51 (DHCP Leased - Windows 11 Enterprise)
+* **Client Workstation:** `192.168.1.51` (DHCP Leased - Windows 11 Enterprise)
 * **Domain Name:** `SERVER-LAB.local`
 
 
