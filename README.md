@@ -26,7 +26,12 @@ Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accou
 
 Deployed an authorised Windows Server Core instance to act as the primary DHCP server for the `SERVER-LAB.local` network using native PowerShell cmdlets. Windows Server Core was utilised to significantly reduce the attack surface and the operating system's footprint. 
 
-## 3.
+## 3. Remote Administration (RSAT)
+<img width="485" height="197" alt="RSAT Setup (DC)" src="https://github.com/user-attachments/assets/6b1e479e-0a07-4e2a-87d3-7000fa41960d" />
+
+**Figure 3: Centralised Management of Network Infrastructure**
+
+Utilised Remote Server Administration Tools (RSAT) on the Domain Controller to centralise the management of network infrastructure, including the management of DHCP from the linked Server Core instance from the primary Domain Controller. 
 
 ## 4.
 
