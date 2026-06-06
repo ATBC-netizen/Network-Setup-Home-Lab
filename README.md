@@ -1,4 +1,18 @@
-# Network-Setup-Home-Lab
+# Mock Enterprise Network Setup
+
+## Objective
+The goal of this home lab was to design, deploy, and manage a network with Active Directory Domain Services (AD/DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP) infrastructure.
+
+## Lab Architecture & IP Addressing
+* **Network ID:** `192.168.1.0`
+* **Domain Controller / DNS Server:** `192.168.1.50` (Windows Server 2022 Datacenter Edition - Desktop Experience)
+* **DHCP Server:** `192.168.1.49` (Windows Server 2022 Datacenter Edition - Server Core)
+* **Client Workstation:** `192.168.1.51 (DHCP Leased - Windows 11 Enterprise)
+* **Domain Name:** `SERVER-LAB.local`
+
+
+
+
 
 <img width="755" height="221" alt="DHCP Setup (Core)" src="https://github.com/user-attachments/assets/81d5ab1e-b5bd-4312-a866-1b631dae6842" />
 
