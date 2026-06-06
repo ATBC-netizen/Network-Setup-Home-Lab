@@ -34,9 +34,11 @@ Deployed an authorised Windows Server Core instance to act as the primary DHCP s
 Utilised Remote Server Administration Tools (RSAT) on the Domain Controller to centralise the management of network infrastructure with a Graphical User Interface (GUI). Enabling the remote management of DHCP from the linked Server Core instance responsible for DHCP at `192.168.1.49`.
 
 ## 4.
+<img width="443" height="461" alt="W11 ipconfig" src="https://github.com/user-attachments/assets/32f8dfba-9411-4069-b721-f8c19e37b744" />
+
+**Figure 4: ???**
 
 ---
 
 ## Challenges & Learning Process
 
-<img width="443" height="461" alt="W11 ipconfig" src="https://github.com/user-attachments/assets/32f8dfba-9411-4069-b721-f8c19e37b744" />
