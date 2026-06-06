@@ -1,7 +1,7 @@
 # Mock Enterprise Network Setup
 
 ## Objective
-The goal of this home lab was to design, deploy, and manage a network infrastructure comprising Active Directory Domain Services (AD/DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP).
+The goal of this project was to design, deploy, and manage a network with infrastructure comprising Active Directory Domain Services (AD/DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP).
 
 ## Lab Architecture & IP Addressing
 * **Network ID:** `192.168.1.0`
@@ -36,9 +36,8 @@ Utilised Remote Server Administration Tools (RSAT) on the Domain Controller to c
 ## 4.
 <img width="443" height="461" alt="W11 ipconfig" src="https://github.com/user-attachments/assets/32f8dfba-9411-4069-b721-f8c19e37b744" />
 
-**Figure 4: ???**
+**Figure 4: Confirmation of 
 
 ---
 
 ## Challenges & Learning Process
-
