@@ -19,7 +19,12 @@ The goal of this home lab was to design, deploy, and manage a network infrastruc
 
 Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accounts from standard users, workstations, and network infrastructure, facilitating strict Role-Based Access Control (RBAC) through Group Policy Objects (GPOs).
 
-## 2. 
+## 2. Dynamic Host Configuration Protocol Setup
+<img width="755" height="221" alt="DHCP Setup (Core)" src="https://github.com/user-attachments/assets/81d5ab1e-b5bd-4312-a866-1b631dae6842" />
+
+**Figure 2: Deploying DHCP on Server Core** 
+
+Deployed an authorised Windows Server Core instance to act as the primary DHCP server for the `SERVER-LAB.local` network using native PowerShell cmdlets. Windows Server Core was utilised to significantly reduce the attack surface and the operating system's footprint. 
 
 ## 3.
 
