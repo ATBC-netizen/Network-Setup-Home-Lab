@@ -10,13 +10,14 @@ The goal of this home lab was to design, deploy, and manage a network infrastruc
 * **Client Workstation:** `192.168.1.51` (DHCP Leased - Windows 11 Enterprise)
 * **Domain Name:** `SERVER-LAB.local`
 
+---
 
+## 1. Directory Architecture
+<img width="559" height="391" alt="Architecture (OUs)" src="https://github.com/user-attachments/assets/a2c72121-5e2a-4818-9922-789cdca33292" />
 
 
 
 <img width="755" height="221" alt="DHCP Setup (Core)" src="https://github.com/user-attachments/assets/81d5ab1e-b5bd-4312-a866-1b631dae6842" />
-
-<img width="559" height="391" alt="Architecture (OUs)" src="https://github.com/user-attachments/assets/a2c72121-5e2a-4818-9922-789cdca33292" />
 
 <img width="1129" height="291" alt="DHCP Address Leases" src="https://github.com/user-attachments/assets/21a3ef6e-ef9a-4051-98db-be120bc6db9e" />
 
