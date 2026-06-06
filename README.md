@@ -17,7 +17,7 @@ The goal of this home lab was to design, deploy, and manage a network infrastruc
 
 **Figure 1: Active Directory Enterprise Hierarchy** 
 
-Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accounts from standard users, workstations, and network infrastructure, thus facilitating strict Role-Based Access Control (RBAC) through Group Policy Objects (GPOs).
+Designed a secure Organisational Unit (OU) hierarchy to isolate privileged accounts from standard users, workstations, and network infrastructure, facilitating strict Role-Based Access Control (RBAC) through Group Policy Objects (GPOs).
 
 ## 2. 
 
