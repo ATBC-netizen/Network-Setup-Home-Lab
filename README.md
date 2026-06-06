@@ -36,7 +36,7 @@ Utilised Remote Server Administration Tools (RSAT) on the Domain Controller to c
 ## 4.
 <img width="443" height="461" alt="W11 ipconfig" src="https://github.com/user-attachments/assets/32f8dfba-9411-4069-b721-f8c19e37b744" />
 
-**Figure 4: Confirmation of 
+**Figure 4: INCOMPLETE**
 
 ---
 
