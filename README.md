@@ -15,6 +15,15 @@ The goal of this home lab was to design, deploy, and manage a network infrastruc
 ## 1. Directory Architecture
 <img width="559" height="391" alt="Architecture (OUs)" src="https://github.com/user-attachments/assets/a2c72121-5e2a-4818-9922-789cdca33292" />
 
+## 2. 
+
+## 3.
+
+## 4.
+
+---
+
+## Challenges & Learning Process
 
 
 <img width="755" height="221" alt="DHCP Setup (Core)" src="https://github.com/user-attachments/assets/81d5ab1e-b5bd-4312-a866-1b631dae6842" />
